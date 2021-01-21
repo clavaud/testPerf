@@ -1,0 +1,5 @@
+CREATE TABLE Test_Perf (
+	id INT PRIMARY KEY,
+	name VARCHAR(100) NOT NULL,
+	value VARCHAR(100) NOT NULL
+);
